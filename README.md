@@ -1,2 +1,2 @@
-# firstrepository
-this is my first webpage
+# K:N
+Kin Studio
